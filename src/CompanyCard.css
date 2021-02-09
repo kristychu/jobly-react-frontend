@@ -1,0 +1,11 @@
+.company-card {
+    border: 3px solid green;
+    width: 60%;
+    border: 2px solid black;
+    margin: auto;
+    padding: 1rem;
+}
+
+.company-card p {
+    font-size: 14px;
+}
